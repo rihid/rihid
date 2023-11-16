@@ -16,5 +16,13 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rihid&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rihid)](https://github.com/anuraghazra/github-readme-stats)
 -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rihid&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rihid&theme=github)
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://github.com/rihid">
+<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadialvy&show_icons=true&theme=algolia" /> -->
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rihid&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+<br>
