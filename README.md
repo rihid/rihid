@@ -21,5 +21,5 @@ I’m Rizal,
 - 🌱 I’m currently learning Typescript & Next.JS
 
 ### My Statistics 😄
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rihid&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rihid&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rihid&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rihid&theme=gruvbox)
